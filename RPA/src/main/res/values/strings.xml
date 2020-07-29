@@ -1,0 +1,16 @@
+<resources>
+
+    <string name="lblConfirm">تأیید</string>
+    <string name="lblCancel">انصارف</string>
+
+    <!--    crashlytics  -->
+    <string name="crash_close_app">بستن برنامه</string>
+    <string name="crash_error_details">ارسال خطای برنامه</string>
+    <string name="crash_details_close">بستن</string>
+    <string name="crash_details_copy">کپی خطا</string>
+    <string name="crash_details_title">مشخصات خطای برنامه</string>
+    <string name="crash_occurred_explanation">برنامه متوقف شده است</string>
+    <string name="crash_restart_app">شروع مجدد برنامه</string>
+    <!--    crashlytics  -->
+
+</resources>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="colorTextDark">#5C5C5C</color>
+    <color name="colorTextLight">#ffffff</color>
+    <color name="colorTextSecondary">#ff888888</color>
+
+    <color name="divider">#BDBDBD</color>
+
+    <color name="colorError">#DB2C1F</color>
+    <color name="colorOk">#388E3C</color>
+    <color name="colorInfo">#3F51B5</color>
+    <color name="colorStop">#F57C00</color>
+
+</resources>
